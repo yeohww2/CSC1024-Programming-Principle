@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-## Overview
+## Project Overview
 
 Welcome to the **Tic-Tac-Toe Game**! This is a simple implementation of the classic Tic-Tac-Toe game where a human player competes against a computer player. The player who manages to align three of their symbols (either 'X' or 'O') horizontally, vertically, or diagonally wins the game.
 
